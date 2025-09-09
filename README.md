@@ -9,7 +9,7 @@
 
 - 🏫: I'm a Information Technology Management student.
 - 🔭: I’m currently working on many small web design projects.
-- 🌱: I’m currently learning **WEB Development Full-Stack**
+- 🌱: I’m currently learning **Front-end development**
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 
 - ⚡  Fun fact: I play basketball, the guitar and the Piano! 🎹
