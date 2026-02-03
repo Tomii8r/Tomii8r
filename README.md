@@ -8,8 +8,8 @@
 </a>
 
 - 🏫: I'm a Information Technology Management student.
-- 🔭: I’m currently working on many small web design projects.
-- 🌱: I’m currently learning **Front-end development**
+- 🔭: I’m currently working on a app web about Stock system.
+- 🌱: I’m currently learning **Back-end development**
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 
 - ⚡  Fun fact: I play basketball, the guitar and the Piano! 🎹
