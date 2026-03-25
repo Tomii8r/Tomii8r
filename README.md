@@ -7,7 +7,7 @@
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-- 🏫: I'm a Information Technology Management student.
+- 🏫: I'm a Information TI student.
 - 🔭: I’m currently working on a app web about Stock system.
 - 🌱: I’m currently learning **Back-end development**
 - 🤔: I’m looking for help with anything I am currently learning! 😅
